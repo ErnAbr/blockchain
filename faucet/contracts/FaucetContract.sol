@@ -6,3 +6,4 @@ contract Faucet {
     uint public funds = 1000; // uint holds only positive values
     int public counter = -10;
 }
+
